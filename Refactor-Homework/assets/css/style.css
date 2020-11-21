@@ -19,7 +19,6 @@ p {
     font-size: 16px;
 }
 
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,7 +53,6 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-
 
 /* Main Background image */
 
@@ -95,7 +93,7 @@ p {
     font-size: 36px;
 }
 
-/* positions images with each services */ 
+/* positions images with each services */
 
 .float-left {
     float: left;
@@ -106,7 +104,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
 
 /*Beneftis side bar styling */
 
