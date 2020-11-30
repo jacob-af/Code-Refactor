@@ -1,9 +1,9 @@
 # Horiseon website refactor
 
-
-This is a refactor of the Horiseon website with improved accessibility, semantic elements, consolidated CSS, and proper commenting.
-
 You will find an **index.html** file, a folder named **assets** which contains two more folders: *css* and *images*, containing the necessary CSS and Images, respectively.
+
+## About the changes:
+The refactor of this page included consolidating redundant css tags, changing <div>s with classes into appropriate semantic elements, adding alternate text tags to images, fixing links, and properly organizing the CSS file.
 
 ### Enjoy
 

@@ -33,7 +33,7 @@ header h1 {
     font-size: 48px;
 }
 
-span {
+.seo {
     color: #d9dcd6;
 }
 
@@ -68,9 +68,9 @@ figure {
 
 }
 
-/* this container is where service content goes */
+/* this main section lists offered services of Horiseon */
 
-section {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
